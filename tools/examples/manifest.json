@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-08-14T07:40:45.201Z",
+  "examples": [
+    {
+      "id": "needs-diagnosis",
+      "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_NEEDS_DIAGNOSIS_SAMPLE.html",
+      "file": "needs-diagnosis.html",
+      "sha256": "30b06482a1fec8d1d9a190c28885975bef3f90368ff75a3bda2fecd83862f352"
+    },
+    {
+      "id": "strategy-design",
+      "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_STRATEGY_DESIGN_SAMPLE.html",
+      "file": "strategy-design.html",
+      "sha256": "db61e6925cd38974c6fb55ba919a9cb4797e1b3931ff58dc846d28f4bddbd6f5"
+    },
+    {
+      "id": "strategy-implementation",
+      "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_STRATEGY_IMPLEMENTATION_SAMPLE.html",
+      "file": "strategy-implementation.html",
+      "sha256": "b66a27ea908b06f9618df36fc6ab5c7751bddd610977417381df43874e9bfe65"
+    },
+    {
+      "id": "business-model-innovation",
+      "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_BUSINESS_MODEL_INNOVATION_SAMPLE.html",
+      "file": "business-model-innovation.html",
+      "sha256": "9f04981fa196dd702fdbbed510f6488b44d33629c4311aaf5abe8ef2aee8fa68"
+    },
+    {
+      "id": "organizational-transformation",
+      "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_ORGANIZATIONAL_TRANSFORMATION_SAMPLE.html",
+      "file": "organizational-transformation.html",
+      "sha256": "8f54e6a127ea681e2ef1a7665a60142494dc7e27dcd05bb54c24a9392dc7fe2e"
+    },
+    {
+      "id": "management-system",
+      "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_MANAGEMENT_SYSTEM_VISUAL_REPORT.html",
+      "file": "management-system.html",
+      "sha256": "c30d55ee27e14f81fb9402c10355c0d50fcd0993475b0a044b5a7b5f74525b55"
+    }
+  ]
+}

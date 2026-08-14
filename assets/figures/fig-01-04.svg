@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1560 940" role="img" aria-labelledby="title description">
+  <title id="title">图1-4 ESG 评价体系下的利益相关方与企业治理</title>
+  <desc id="description">企业位于中心，与投资、监管、评估、产业、城市和供应链相连；产业、企业、城市构成横向关系，供应链与三者相连。</desc>
+  <defs><style>.txt{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;font-weight:800}.label{font-size:40px;fill:#fff}.note{font-size:38px;fill:#1a302c}.node{fill:#1d6e61}.open{fill:#fbfaf6;stroke:#1d6e61;stroke-width:5}.line{stroke:#1d6e61;stroke-width:5;fill:none;marker-end:url(#arrow)}.dashed{stroke-dasharray:5 12}</style><marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1d6e61"/></marker></defs>
+  <rect width="1560" height="940" fill="#fbfaf6"/>
+  <circle cx="780" cy="505" r="90" class="node"/><text x="780" y="519" text-anchor="middle" class="txt label">企业</text>
+  <circle cx="270" cy="505" r="90" class="node"/><text x="270" y="519" text-anchor="middle" class="txt label">产业</text>
+  <circle cx="1290" cy="505" r="90" class="node"/><text x="1290" y="519" text-anchor="middle" class="txt label">城市</text>
+  <circle cx="780" cy="770" r="90" class="node"/><text x="780" y="784" text-anchor="middle" class="txt label">供应链</text>
+  <circle cx="270" cy="210" r="78" class="open"/><text x="270" y="224" text-anchor="middle" class="txt note">投资</text>
+  <circle cx="780" cy="210" r="78" class="open"/><text x="780" y="224" text-anchor="middle" class="txt note">监管</text>
+  <circle cx="1290" cy="210" r="78" class="open"/><text x="1290" y="224" text-anchor="middle" class="txt note">评估</text>
+  <path d="M360 505 H690" class="line dashed"/><path d="M870 505 H1200" class="line dashed"/>
+  <path d="M330 260 L715 450" class="line"/><path d="M780 288 V413" class="line"/><path d="M1230 260 L845 450" class="line"/>
+  <path d="M720 686 V600" class="line"/><path d="M705 725 L340 550" class="line"/><path d="M855 725 L1220 550" class="line"/>
+  <path d="M690 815 H360" class="line dashed"/><path d="M870 815 H1200" class="line dashed"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1560 1120" role="img" aria-labelledby="title description">
+  <title id="title">图1-6 新型战略空间影响下的可持续商业模式</title>
+  <desc id="description">经济、社会、环境三维战略空间围绕从经典战略到可持续商业战略的迁移，并由企业业务、企业价值、社会与环境、行业生态四个视角和ESG作为抓手共同连接。</desc>
+  <defs><style>.txt{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;fill:#151515;font-weight:700}.label{font-size:34px}.note{font-size:38px}.node{fill:#656d6e}.white{fill:#fff}.circle{fill:none;stroke:#303638;stroke-width:5}.dotted{fill:none;stroke:#60696a;stroke-width:4;stroke-dasharray:3 9}.arrow{fill:#4f5859}.center{fill:#666e6f;opacity:.93}.centertext{font-size:30px;font-weight:700;fill:#fff}</style></defs>
+  <path d="M330 314 A520 520 0 0 1 1225 314" class="dotted"/><path d="M1225 314 A520 520 0 0 1 1180 822" class="dotted"/><path d="M1180 822 A520 520 0 0 1 330 822" class="dotted"/><path d="M330 822 A520 520 0 0 1 330 314" class="dotted"/>
+  <circle cx="780" cy="510" r="210" class="circle"/><circle cx="650" cy="700" r="210" class="circle"/><circle cx="910" cy="700" r="210" class="circle"/>
+  <text x="780" y="405" text-anchor="middle" class="txt label">经济维度</text><text x="650" y="770" text-anchor="middle" class="txt label">社会维度</text><text x="910" y="770" text-anchor="middle" class="txt label">环境维度</text>
+  <circle cx="780" cy="625" r="180" class="center"/><text x="780" y="610" text-anchor="middle" class="txt centertext">迁移：从经典战略</text><text x="780" y="652" text-anchor="middle" class="txt centertext">到可持续商业战略</text>
+  <path d="M780 260 L755 306 L771 306 L771 354 L789 354 L789 306 L805 306 Z" class="arrow"/><text x="780" y="225" text-anchor="middle" class="txt note">商业模式迭代</text>
+  <path d="M1170 625 L1124 600 L1124 616 L1068 616 L1068 634 L1124 634 L1124 650 Z" transform="rotate(180 1119 625)" class="arrow"/><text x="1215" y="640" class="txt note">复合价值诉求</text>
+  <path d="M780 930 L755 884 L771 884 L771 836 L789 836 L789 884 L805 884 Z" transform="rotate(180 780 883)" class="arrow"/><text x="780" y="1025" text-anchor="middle" class="txt note">ESG作为抓手</text>
+  <path d="M400 625 L446 600 L446 616 L502 616 L502 634 L446 634 L446 650 Z" class="arrow"/><text x="120" y="640" class="txt note">变革创新加持</text>
+  <circle cx="285" cy="415" r="83" class="node"/><text x="285" y="395" text-anchor="middle" class="txt label white">企业</text><text x="285" y="435" text-anchor="middle" class="txt label white">业务</text><text x="285" y="475" text-anchor="middle" class="txt label white">视角</text>
+  <circle cx="1275" cy="415" r="83" class="node"/><text x="1275" y="395" text-anchor="middle" class="txt label white">企业</text><text x="1275" y="435" text-anchor="middle" class="txt label white">价值</text><text x="1275" y="475" text-anchor="middle" class="txt label white">视角</text>
+  <circle cx="285" cy="835" r="83" class="node"/><text x="285" y="815" text-anchor="middle" class="txt label white">行业</text><text x="285" y="855" text-anchor="middle" class="txt label white">生态</text><text x="285" y="895" text-anchor="middle" class="txt label white">视角</text>
+  <circle cx="1275" cy="835" r="83" class="node"/><text x="1275" y="815" text-anchor="middle" class="txt label white">社会</text><text x="1275" y="855" text-anchor="middle" class="txt label white">与环境</text><text x="1275" y="895" text-anchor="middle" class="txt label white">视角</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 900" role="img" aria-labelledby="title description">
+  <title id="title">图1-9 可持续商业</title>
+  <desc id="description">人类社会可持续发展范围内，可持续商业以经济、社会、环境三重维度为基础，连接企业宗旨、复合价值、可持续商业模式、可持续商业战略和可持续商业治理。</desc>
+  <defs><style>.txt{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;fill:#152b28;font-weight:700}.title{font-size:42px}.label{font-size:34px}.note{font-size:31px}.outer{fill:none;stroke:#1d6e61;stroke-width:4;stroke-dasharray:5 10}.line{stroke:#1d6e61;stroke-width:5}.core{fill:#1d6e61}.node{fill:#7ca99e;stroke:#fbfaf6;stroke-width:5}</style></defs>
+  <rect width="1500" height="900" fill="#fbfaf6"/>
+  <ellipse cx="750" cy="450" rx="650" ry="340" class="outer"/>
+  <text x="750" y="116" text-anchor="middle" class="txt title">人类社会可持续发展</text>
+  <circle cx="750" cy="460" r="152" class="core"/>
+  <text x="750" y="475" text-anchor="middle" class="txt title" fill="#fff">可持续商业</text>
+  <circle cx="750" cy="320" r="76" class="node"/><text x="750" y="333" text-anchor="middle" class="txt label" fill="#fff">经济</text>
+  <circle cx="630" cy="525" r="76" class="node"/><text x="630" y="515" text-anchor="middle" class="txt label" fill="#fff">社</text><text x="630" y="552" text-anchor="middle" class="txt label" fill="#fff">会</text>
+  <circle cx="870" cy="525" r="76" class="node"/><text x="870" y="515" text-anchor="middle" class="txt label" fill="#fff">环</text><text x="870" y="552" text-anchor="middle" class="txt label" fill="#fff">境</text>
+  <path d="M430 460 H585" class="line"/><text x="260" y="472" class="txt title">企业宗旨</text>
+  <path d="M915 460 H1080" class="line"/><text x="1110" y="472" class="txt title">复合价值</text>
+  <path d="M648 340 L592 275" class="line"/><text x="420" y="250" transform="rotate(-34 420 250)" class="txt note">可持续商业模式</text>
+  <path d="M852 340 L908 275" class="line"/><text x="965" y="250" transform="rotate(34 965 250)" class="txt note">可持续商业战略</text>
+  <path d="M750 612 V700" class="line"/><text x="750" y="670" text-anchor="middle" class="txt note">可持续商业治理</text>
+  <text x="750" y="810" text-anchor="middle" class="txt title">全生命周期全价值链全方位生态</text>
+</svg>

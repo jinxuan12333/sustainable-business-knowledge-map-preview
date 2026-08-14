@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 900" role="img" aria-labelledby="title description">
+  <title id="title">图1-5 企业战略空间的迁移</title>
+  <desc id="description">企业从传统战略空间，迁移到由经济、社会与环境三重维度交叠形成的新型战略空间。</desc>
+  <defs><style>.txt{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;fill:#151515;font-weight:700}.label{font-size:42px}.note{font-size:36px}.circle{fill:none;stroke:#303638;stroke-width:5}.line{stroke:#303638;stroke-width:5;fill:none;marker-end:url(#arrowhead)}</style><marker id="arrowhead" markerWidth="11" markerHeight="11" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#303638"/></marker></defs>
+  <circle cx="350" cy="355" r="175" class="circle"/>
+  <text x="350" y="330" text-anchor="middle" class="txt label">传统</text><text x="350" y="380" text-anchor="middle" class="txt label">战略</text><text x="350" y="430" text-anchor="middle" class="txt label">空间</text>
+  <path d="M540 355 H850" class="line"/><text x="695" y="332" text-anchor="middle" class="txt label">空间迁移</text>
+  <circle cx="1040" cy="260" r="175" class="circle"/><circle cx="930" cy="450" r="175" class="circle"/><circle cx="1150" cy="450" r="175" class="circle"/>
+  <text x="1040" y="240" text-anchor="middle" class="txt label">经济维度</text><text x="930" y="500" text-anchor="middle" class="txt label">社会维度</text><text x="1150" y="500" text-anchor="middle" class="txt label">环境维度</text>
+  <text x="1040" y="335" text-anchor="middle" class="txt label">新型</text><text x="1040" y="385" text-anchor="middle" class="txt label">战略</text><text x="1040" y="435" text-anchor="middle" class="txt label">空间</text>
+  <text x="350" y="670" text-anchor="middle" class="txt note">利润导向　财务考核　股东价值</text>
+  <text x="1040" y="670" text-anchor="middle" class="txt note">目的导向　三重考量　共享价值</text>
+</svg>

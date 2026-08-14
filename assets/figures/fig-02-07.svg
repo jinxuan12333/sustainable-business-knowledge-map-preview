@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1180" role="img" aria-labelledby="title description">
+  <title id="title">图2-7 南方电网的 ESG 基建评价体系</title>
+  <desc id="description">以新发展理念为引导，将建设管理内容与环境、社会、治理绩效评价项目相连接的南方电网ESG基建评价体系。</desc>
+  <defs>
+    <style>
+      .base{fill:#fbfaf6}.dark{fill:#176b5c}.mid{fill:#e0efe8;stroke:#176b5c;stroke-width:3}.lite{fill:#fffdf9;stroke:#176b5c;stroke-width:3}.rule{stroke:#176b5c;stroke-width:3;fill:none;marker-end:url(#a)}.head{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;font-size:38px;font-weight:800;fill:#fff}.label{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;font-size:31px;font-weight:700;fill:#172d29}.small{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;font-size:25px;font-weight:700;fill:#172d29}.white{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;font-size:29px;font-weight:800;fill:#fff}.caption{font-family:'Noto Serif SC','Songti SC',serif;font-size:38px;font-weight:800;fill:#172d29}
+    </style>
+    <marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#176b5c"/></marker>
+  </defs>
+  <rect width="1900" height="1180" class="base"/>
+  <text x="950" y="70" text-anchor="middle" class="caption">南方电网的 ESG 基建评价体系</text>
+
+  <g aria-label="理念指引">
+    <rect x="95" y="270" width="160" height="560" rx="10" class="dark"/><text x="175" y="403" text-anchor="middle" class="head">新</text><text x="175" y="463" text-anchor="middle" class="head">发</text><text x="175" y="523" text-anchor="middle" class="head">展</text><text x="175" y="583" text-anchor="middle" class="head">理</text><text x="175" y="643" text-anchor="middle" class="head">念</text>
+    <rect x="95" y="160" width="370" height="90" rx="12" class="dark"/><text x="280" y="217" text-anchor="middle" class="head">理念指引</text>
+    <g class="dark">
+      <rect x="270" y="270" width="180" height="90"/><rect x="270" y="380" width="180" height="90"/><rect x="270" y="490" width="180" height="90"/><rect x="270" y="600" width="180" height="90"/><rect x="270" y="710" width="180" height="90"/>
+    </g>
+    <text x="360" y="328" text-anchor="middle" class="head">创新</text><text x="360" y="438" text-anchor="middle" class="head">协调</text><text x="360" y="548" text-anchor="middle" class="head">绿色</text><text x="360" y="658" text-anchor="middle" class="head">开放</text><text x="360" y="768" text-anchor="middle" class="head">共享</text>
+  </g>
+
+  <g aria-label="建设管理">
+    <rect x="530" y="160" width="740" height="90" rx="12" class="dark"/><text x="900" y="217" text-anchor="middle" class="head">建设管理</text>
+    <rect x="470" y="270" width="800" height="90" class="lite"/><rect x="490" y="282" width="760" height="66" class="dark"/>
+    <text x="870" y="326" text-anchor="middle" class="white">工程管理创新、工程建造技术创新、标准设计</text>
+    <rect x="470" y="380" width="800" height="90" class="lite"/><rect x="490" y="392" width="760" height="66" class="dark"/>
+    <text x="870" y="436" text-anchor="middle" class="white">东西部、主配网均衡、农村电网巩固提升</text>
+    <rect x="470" y="490" width="800" height="90" class="lite"/><rect x="490" y="502" width="475" height="66" class="dark"/><rect x="990" y="502" width="260" height="66" class="dark"/>
+    <text x="727" y="546" text-anchor="middle" class="white">环评水保、生态红线跨越</text><text x="1120" y="546" text-anchor="middle" class="white">西电东送</text>
+    <rect x="470" y="600" width="800" height="90" class="lite"/><rect x="490" y="612" width="760" height="66" class="dark"/>
+    <text x="870" y="656" text-anchor="middle" class="white">电力互联互通工程、先进建造技术引进采和标准备案</text>
+    <rect x="470" y="710" width="800" height="120" class="lite"/><rect x="490" y="722" width="760" height="96" class="dark"/>
+    <text x="870" y="765" text-anchor="middle" class="white">诚信体系建设、产业工人队伍发展、重大工程建设</text><text x="870" y="805" text-anchor="middle" class="white">以工代赈、承包商管理</text>
+  </g>
+
+  <g aria-label="绩效评价">
+    <rect x="1480" y="160" width="280" height="90" rx="12" class="dark"/><text x="1620" y="217" text-anchor="middle" class="head">绩效评价</text>
+    <rect x="1430" y="270" width="260" height="90" class="mid"/><text x="1560" y="326" text-anchor="middle" class="label">资源消耗</text>
+    <rect x="1430" y="360" width="260" height="90" class="mid"/><text x="1560" y="416" text-anchor="middle" class="label">污染防治</text>
+    <rect x="1430" y="450" width="260" height="90" class="mid"/><text x="1560" y="506" text-anchor="middle" class="label">气候变化</text>
+    <rect x="1690" y="270" width="100" height="270" class="dark"/><text x="1740" y="414" text-anchor="middle" class="head">E</text>
+    <rect x="1430" y="540" width="260" height="90" class="mid"/><text x="1560" y="596" text-anchor="middle" class="label">质量与安全</text>
+    <rect x="1430" y="630" width="260" height="90" class="mid"/><text x="1560" y="686" text-anchor="middle" class="small">利益相关方参与</text>
+    <rect x="1430" y="720" width="260" height="90" class="mid"/><text x="1560" y="776" text-anchor="middle" class="small">产业工人权益及保障</text>
+    <rect x="1430" y="810" width="260" height="90" class="mid"/><text x="1560" y="866" text-anchor="middle" class="label">社会响应</text>
+    <rect x="1690" y="540" width="100" height="360" class="dark"/><text x="1740" y="730" text-anchor="middle" class="head">S</text>
+    <rect x="1430" y="900" width="260" height="90" class="mid"/><text x="1560" y="956" text-anchor="middle" class="label">治理机构</text>
+    <rect x="1430" y="990" width="260" height="90" class="mid"/><text x="1560" y="1046" text-anchor="middle" class="label">治理机制</text>
+    <rect x="1430" y="1080" width="260" height="70" class="mid"/><text x="1560" y="1127" text-anchor="middle" class="label">治理效能</text>
+    <rect x="1690" y="900" width="100" height="250" class="dark"/><text x="1740" y="1033" text-anchor="middle" class="head">G</text>
+  </g>
+  <path d="M1270 315 C1340 315 1355 310 1430 310" class="rule"/><path d="M1270 425 C1340 425 1355 680 1430 680" class="rule"/><path d="M1270 535 C1330 535 1350 410 1430 410" class="rule"/><path d="M1270 645 C1340 645 1355 865 1430 865" class="rule"/><path d="M1270 765 C1345 765 1355 1030 1430 1030" class="rule"/><path d="M1270 765 C1340 765 1355 950 1430 950" class="rule"/>
+  <path d="M1740 160 V105 H950 V160" class="rule"/>
+</svg>

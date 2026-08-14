@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1100" role="img" aria-labelledby="title description">
+  <title id="title">图2-2 六维宝石图谱</title>
+  <desc id="description">社会痛点、市场机遇、商业模式、行业生态、利益相关方、应用场景和价值衡量围绕企业四要素展开。</desc>
+  <defs>
+    <style>
+      .txt{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;fill:#151515}.outer{fill:none;stroke:#4d5657;stroke-width:7;stroke-linejoin:round}.inner{fill:none;stroke:#6f7778;stroke-width:2}.facet{fill:#d9dcda;stroke:#818888;stroke-width:1}.spoke{stroke:#fff;stroke-width:9}.center{fill:#4c5556;stroke:#fff;stroke-width:7}.label{font-size:33px;font-weight:700}.side{font-size:31px;font-weight:700}.note{font-size:29px;font-weight:600}.centerText{font-size:29px;font-weight:700;fill:#fff}.arrow{fill:none;stroke:#4d5657;stroke-width:4;marker-end:url(#arrowhead)}
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0,0 L9,4 L0,8 Z" fill="#4d5657"/></marker>
+  </defs>
+
+  <polygon points="750,215 1060,395 1060,690 750,870 440,690 440,395" class="outer"/>
+  <line x1="750" y1="215" x2="750" y2="870" class="inner"/><line x1="440" y1="395" x2="1060" y2="690" class="inner"/><line x1="1060" y1="395" x2="440" y2="690" class="inner"/><line x1="440" y1="395" x2="1060" y2="395" class="inner"/><line x1="440" y1="690" x2="1060" y2="690" class="inner"/>
+
+  <polygon points="750,235 920,505 580,505" class="facet"/>
+  <polygon points="458,410 730,570 458,665" class="facet"/>
+  <polygon points="1042,410 770,570 1042,665" class="facet"/>
+  <polygon points="750,850 580,585 920,585" class="facet"/>
+  <line x1="750" y1="550" x2="750" y2="290" class="spoke"/><line x1="750" y1="550" x2="500" y2="430" class="spoke"/><line x1="750" y1="550" x2="1000" y2="430" class="spoke"/><line x1="750" y1="550" x2="750" y2="800" class="spoke"/>
+  <circle cx="750" cy="550" r="87" class="center"/>
+  <text x="750" y="536" text-anchor="middle" class="txt centerText">企业</text><text x="750" y="574" text-anchor="middle" class="txt centerText">四要素</text>
+  <text x="750" y="414" text-anchor="middle" class="txt label">核心价值</text>
+  <text x="588" y="545" text-anchor="middle" class="txt label">关键技能</text>
+  <text x="912" y="545" text-anchor="middle" class="txt label">综合资源</text>
+  <text x="750" y="710" text-anchor="middle" class="txt label">主打领域</text>
+
+  <text x="748" y="92" text-anchor="middle" class="txt side">价值衡量</text>
+  <text x="870" y="112" class="txt note">创造共享复合价值</text>
+  <path d="M350 252 C355 130 505 80 650 110" class="arrow"/>
+
+  <text x="1124" y="365" transform="rotate(-24 1124 365)" class="txt side">应用场景</text>
+  <text x="1244" y="340" class="txt note">价值前置设计</text>
+  <path d="M1165 440 C1215 470 1215 522 1165 555" class="arrow"/>
+  <text x="1190" y="540" class="txt side">利益相关方</text>
+
+  <text x="1115" y="750" transform="rotate(25 1115 750)" class="txt side">行业生态</text>
+  <text x="1210" y="800" class="txt note">开放、合作、创新</text>
+  <path d="M1138 668 C1190 690 1190 748 1138 775" class="arrow"/>
+
+  <text x="748" y="946" text-anchor="middle" class="txt side">商业模式</text>
+  <text x="870" y="972" class="txt note">可持续增长与发展</text>
+  <path d="M650 942 C505 934 350 875 312 760" class="arrow"/>
+
+  <text x="235" y="735" transform="rotate(-28 235 735)" class="txt side">市场机遇</text>
+  <text x="66" y="565" class="txt note">将挑战转化成机遇</text>
+  <path d="M300 635 C250 600 250 530 300 495" class="arrow"/>
+  <text x="130" y="370" transform="rotate(24 130 370)" class="txt side">社会痛点</text>
+</svg>

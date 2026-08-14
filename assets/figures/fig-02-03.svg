@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1080" role="img" aria-labelledby="title description">
+  <title id="title">图2-3 可持续发展经营战略思维体系</title>
+  <desc id="description">以成为最让人信赖的可持续经营的卓越企业为目标，图示列出三重绩效、利益相关方、内外流程链接和学习与发展四个层次的目标与行动。</desc>
+  <defs>
+    <style>
+      .txt{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;fill:#111}.goal{font-size:30px;font-weight:700;fill:#fff}.layer{font-size:33px;font-weight:700}.boxtext{font-size:25px;font-weight:600}.small{font-size:23px;font-weight:600}.band{font-size:25px;font-weight:700;fill:#fff}.outline{fill:#fff;stroke:#252525;stroke-width:2.5}.dash{fill:#fff;stroke:#252525;stroke-width:2.5;stroke-dasharray:10 8}.gray{fill:#858585}.black{fill:#222}.line{fill:none;stroke:#333;stroke-width:2.5}.arrow{fill:#777}.roof{fill:#272727}
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0,0 L9,4 L0,8 Z" fill="#333"/></marker>
+  </defs>
+  <polygon points="310,74 900,22 1490,74" class="roof"/>
+  <text x="900" y="62" text-anchor="middle" class="txt goal">成为最让人信赖的可持续经营的卓越企业</text>
+  <text x="76" y="165" class="txt layer">三重绩效</text>
+  <path d="M143 208 L117 236 L126 236 L126 278 L160 278 L160 236 L169 236 Z" class="arrow"/>
+  <text x="63" y="360" class="txt layer">利益相关方</text>
+  <path d="M143 402 L117 430 L126 430 L126 548 L160 548 L160 430 L169 430 Z" class="arrow"/>
+  <text x="55" y="630" class="txt layer">内外流程链接</text>
+  <path d="M143 668 L117 696 L126 696 L126 805 L160 805 L160 696 L169 696 Z" class="arrow"/>
+  <text x="80" y="898" class="txt layer">学习与发展</text>
+
+  <text x="520" y="112" text-anchor="middle" class="txt boxtext">增长发展战略</text>
+  <text x="1275" y="112" text-anchor="middle" class="txt boxtext">生产力战略</text>
+  <rect x="335" y="125" width="280" height="45" class="outline"/><text x="475" y="157" text-anchor="middle" class="txt boxtext">F2 提高公司的销售收入</text>
+  <ellipse cx="900" cy="150" rx="180" ry="42" class="outline"/><text x="900" y="159" text-anchor="middle" class="txt boxtext">F1 相关方价值最大化</text>
+  <rect x="1185" y="125" width="260" height="45" class="outline"/><text x="1315" y="157" text-anchor="middle" class="txt boxtext">F3 提高资产利用效率</text>
+  <rect x="1455" y="125" width="260" height="45" class="outline"/><text x="1585" y="157" text-anchor="middle" class="txt boxtext">F4 提高成本竞争力</text>
+
+  <rect x="330" y="268" width="330" height="48" class="outline"/><text x="495" y="302" text-anchor="middle" class="txt boxtext">C2 提高相关方满意度</text>
+  <rect x="735" y="268" width="285" height="48" class="outline"/><text x="877" y="302" text-anchor="middle" class="txt boxtext">C1 提升市场占有率</text>
+  <rect x="1090" y="268" width="300" height="48" class="outline"/><text x="1240" y="302" text-anchor="middle" class="txt boxtext">C3 与经销商共赢共享</text>
+  <rect x="1410" y="268" width="350" height="48" class="outline"/><text x="1585" y="302" text-anchor="middle" class="txt boxtext">C4 提升品牌知名度、美誉度</text>
+
+  <polygon points="435,327 465,300 495,327" class="gray"/><rect x="332" y="328" width="328" height="50" class="gray"/><text x="496" y="363" text-anchor="middle" class="txt band">加强产品竞争力</text>
+  <polygon points="900,327 930,300 960,327" class="gray"/><rect x="765" y="328" width="270" height="50" class="gray"/><text x="900" y="363" text-anchor="middle" class="txt band">提高运营效率</text>
+  <polygon points="1270,327 1300,300 1330,327" class="gray"/><rect x="1125" y="328" width="350" height="50" class="gray"/><text x="1300" y="363" text-anchor="middle" class="txt band">快速提升营销力</text>
+  <polygon points="1555,327 1585,300 1615,327" class="gray"/><rect x="1438" y="328" width="295" height="50" class="gray"/><text x="1585" y="363" text-anchor="middle" class="txt band">打造可信赖企业</text>
+
+  <rect x="330" y="397" width="330" height="48" class="outline"/><text x="495" y="430" text-anchor="middle" class="txt boxtext">P1 确保新产品投放成功</text>
+  <rect x="330" y="460" width="150" height="90" class="outline"/><text x="405" y="498" text-anchor="middle" class="txt boxtext">P2 提高产</text><text x="405" y="530" text-anchor="middle" class="txt boxtext">品的适应性</text>
+  <rect x="500" y="460" width="160" height="90" class="outline"/><text x="580" y="498" text-anchor="middle" class="txt boxtext">P3 加速推进</text><text x="580" y="530" text-anchor="middle" class="txt boxtext">产品规划实施</text>
+  <rect x="330" y="565" width="330" height="45" class="outline"/><text x="495" y="597" text-anchor="middle" class="txt boxtext">P4 完善</text>
+  <rect x="720" y="397" width="320" height="48" class="dash"/><text x="880" y="430" text-anchor="middle" class="txt boxtext">P5 提高劳动生产效率</text>
+  <rect x="720" y="460" width="320" height="48" class="dash"/><text x="880" y="493" text-anchor="middle" class="txt boxtext">P6 提高产销协调性</text>
+  <rect x="720" y="530" width="320" height="45" class="outline"/><text x="880" y="562" text-anchor="middle" class="txt boxtext">P7 加强战略性采购</text>
+  <rect x="1080" y="397" width="320" height="48" class="outline"/><text x="1240" y="430" text-anchor="middle" class="txt boxtext">P8 提高商务费用使用效率</text>
+  <rect x="1080" y="460" width="320" height="48" class="outline"/><text x="1240" y="493" text-anchor="middle" class="txt boxtext">P9 提升网络运营效率</text>
+  <rect x="1080" y="530" width="320" height="45" class="outline"/><text x="1240" y="562" text-anchor="middle" class="txt boxtext">P10 强化客户关系管理</text>
+  <rect x="1430" y="397" width="330" height="48" class="outline"/><text x="1595" y="430" text-anchor="middle" class="txt boxtext">P13 强化安全、节能与环保</text>
+  <rect x="1430" y="530" width="330" height="45" class="outline"/><text x="1595" y="562" text-anchor="middle" class="txt boxtext">P14 履行社会责任</text>
+  <rect x="470" y="625" width="320" height="46" class="dash"/><text x="630" y="657" text-anchor="middle" class="txt boxtext">P11 深化精益管理</text>
+  <rect x="1040" y="625" width="390" height="46" class="dash"/><text x="1235" y="657" text-anchor="middle" class="txt boxtext">P12 实现全价值链质量领先</text>
+
+  <polygon points="430,715 460,688 490,715" class="gray"/><rect x="452" y="716" width="270" height="38" class="gray"/><text x="587" y="744" text-anchor="middle" class="txt band">人力资本</text>
+  <polygon points="948,715 978,688 1008,715" class="gray"/><rect x="970" y="716" width="280" height="38" class="gray"/><text x="1110" y="744" text-anchor="middle" class="txt band">信息资本</text>
+  <polygon points="1460,715 1490,688 1520,715" class="gray"/><rect x="1482" y="716" width="280" height="38" class="gray"/><text x="1622" y="744" text-anchor="middle" class="txt band">组织资本</text>
+  <polygon points="1710,715 1740,688 1770,715" class="gray"/>
+
+  <rect x="330" y="780" width="560" height="46" class="outline"/><text x="610" y="812" text-anchor="middle" class="txt boxtext">L1 加强战略性人才的引进与培养</text>
+  <rect x="330" y="842" width="560" height="46" class="outline"/><text x="610" y="874" text-anchor="middle" class="txt boxtext">L2 完善职业生涯管理体系和绩效激励机制</text>
+  <rect x="915" y="796" width="360" height="78" class="outline"/><text x="1095" y="844" text-anchor="middle" class="txt boxtext">L3 建立应用与完善IT系统</text>
+  <rect x="1295" y="796" width="250" height="78" class="outline"/><text x="1420" y="844" text-anchor="middle" class="txt boxtext">L4 文化传承与创新</text>
+  <rect x="1565" y="796" width="245" height="78" class="outline"/><text x="1687" y="829" text-anchor="middle" class="txt boxtext">L5 加强知识管理</text><text x="1687" y="860" text-anchor="middle" class="txt boxtext">做好组织记忆</text>
+
+  <path d="M495 268 L495 220 L475 220 L475 170 M877 268 L877 205 L900 205 L900 192 M1240 268 L1240 220 L1315 220 L1315 170 M1585 268 L1585 220 L1585 220 L1585 170" class="line" marker-end="url(#arrowhead)"/>
+  <path d="M495 397 L495 378 M880 397 L880 378 M1240 397 L1240 378 M1595 397 L1595 378" class="line" marker-end="url(#arrowhead)"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1040" role="img" aria-labelledby="title description">
+  <title id="title">图1-8 实质性议题矩阵</title>
+  <desc id="description">矩阵以社会环境趋势和影响、商业活动的关键要素为两个维度，展示利益相关方诉求、实质性议题甄别及其交集。</desc>
+  <defs><style>.txt{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;fill:#142a27;font-weight:700}.label{font-size:34px}.note{font-size:31px}.axis{stroke:#173f39;stroke-width:6;fill:none;marker-end:url(#a)}.curve{fill:none;stroke:#f7f5ef;stroke-width:5}.dot{fill:#f7f5ef;stroke:#173f39;stroke-width:5}.arrow{stroke:#173f39;stroke-width:4;fill:none;marker-end:url(#a)}</style><marker id="a" markerWidth="11" markerHeight="11" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#173f39"/></marker></defs>
+  <rect width="1500" height="1040" fill="#fbfaf6"/>
+  <path d="M430 840 V220" class="axis"/><path d="M430 840 H1110" class="axis"/>
+  <path d="M430 255 Q1010 275 1080 840 L430 840Z" fill="#174d45"/>
+  <path d="M430 525 Q800 548 865 840 L430 840Z" fill="#5f9186"/>
+  <path d="M430 690 Q610 705 645 840 L430 840Z" fill="#a8c5bc"/>
+  <path d="M430 525 Q800 548 865 840" class="curve"/><path d="M430 690 Q610 705 645 840" class="curve"/>
+  <path d="M430 255 Q1000 250 1080 840" stroke="#a7b3ad" stroke-width="4" fill="none" stroke-dasharray="4 10"/>
+  <path d="M500 815 L910 435" class="arrow"/>
+  <text x="366" y="600" text-anchor="middle" transform="rotate(-90 366 600)" class="txt label">社会环境趋势和影响</text>
+  <text x="780" y="920" text-anchor="middle" class="txt label">商业活动的关键要素</text>
+  <text x="875" y="512" transform="rotate(42 875 512)" class="txt label" fill="#fff">实质性议题</text>
+  <text x="1050" y="450" transform="rotate(42 1050 450)" class="txt note">场景</text>
+  <rect x="68" y="610" width="258" height="60" rx="4" fill="#174d45"/><text x="197" y="650" text-anchor="middle" class="txt note" fill="#fff">利益相关方诉求</text>
+  <path d="M480 758 Q250 760 175 690" class="arrow"/>
+  <rect x="1160" y="610" width="270" height="60" rx="4" fill="#174d45"/><text x="1295" y="650" text-anchor="middle" class="txt note" fill="#fff">实质性议题甄别</text>
+  <path d="M1030 740 Q1260 760 1300 690" class="arrow"/>
+  <g class="dot"><circle cx="610" cy="420" r="16"/><circle cx="704" cy="472" r="16"/><circle cx="620" cy="540" r="16"/><circle cx="790" cy="550" r="16"/><circle cx="555" cy="620" r="16"/><circle cx="748" cy="650" r="16"/><circle cx="860" cy="670" r="16"/><circle cx="705" cy="730" r="16"/><circle cx="810" cy="765" r="16"/><circle cx="940" cy="700" r="16"/></g>
+</svg>

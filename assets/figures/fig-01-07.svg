@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1060" role="img" aria-labelledby="title description">
+  <title id="title">图1-7 新型战略空间影响下的可持续商业战略</title>
+  <desc id="description">图示对比以股东价值为中心的经济与以利益攸关为导向的经济，并列出新型战略空间下的企业战略要求、思维变化与传统经营特征。</desc>
+  <defs>
+    <style>
+      .txt{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;fill:#182a27}.title{font-size:48px;font-weight:700}.label{font-size:35px;font-weight:700}.body{font-size:28px;font-weight:600}.small{font-size:25px;font-weight:600}.circle{fill:#f3f1ea;stroke:#1d6e61;stroke-width:5}.overlap{fill:#d8e6df;fill-opacity:.84;stroke:#1d6e61;stroke-width:4}.rule{stroke:#1d6e61;stroke-width:5;fill:none;marker-end:url(#arrow)}.bar{fill:#174d45}.bartext{font-size:26px;font-weight:700;fill:#fff}.bullet{fill:#1d6e61}
+    </style>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1d6e61"/></marker>
+  </defs>
+
+  <rect width="1600" height="1060" fill="#fbfaf6"/>
+  <line x1="790" y1="110" x2="790" y2="935" stroke="#d4d0c4" stroke-width="3"/>
+
+  <text x="390" y="116" text-anchor="middle" class="txt title">以利益攸关为导向的经济</text>
+  <circle cx="390" cy="312" r="104" class="overlap"/>
+  <circle cx="294" cy="468" r="104" class="overlap"/>
+  <circle cx="486" cy="468" r="104" class="overlap"/>
+  <text x="390" y="324" text-anchor="middle" class="txt label">社会</text>
+  <text x="294" y="480" text-anchor="middle" class="txt label">环境</text>
+  <text x="486" y="480" text-anchor="middle" class="txt label">经济</text>
+  <path d="M390 685 V590" class="rule"/>
+  <text x="390" y="744" text-anchor="middle" class="txt title">以股东价值为中心的经济</text>
+
+  <circle cx="866" cy="156" r="7" class="bullet"/><text x="892" y="166" class="txt body">重新定义企业的宗旨、战略，与社会价值结合点</text>
+  <circle cx="866" cy="222" r="7" class="bullet"/><text x="892" y="232" class="txt body">重视利益相关方诉求，沟通、平衡多重价值实现</text>
+  <circle cx="866" cy="288" r="7" class="bullet"/><text x="892" y="298" class="txt body">参与社会治理中的重大问题的创新和解决方案</text>
+  <circle cx="866" cy="354" r="7" class="bullet"/><text x="892" y="364" class="txt body">培育企业与生态的共存关系、拓展共赢发展空间</text>
+  <circle cx="866" cy="420" r="7" class="bullet"/><text x="892" y="430" class="txt body">管理商业、运营、声誉风险，建立综合韧性体系</text>
+
+  <rect x="860" y="512" width="650" height="60" rx="4" class="bar"/>
+  <text x="1185" y="552" text-anchor="middle" class="txt bartext">全生命周期—全价值链—生态—循环经济非线性思维</text>
+  <path d="M1185 655 V592" class="rule"/>
+  <rect x="860" y="670" width="650" height="60" rx="4" fill="#68716f"/>
+  <text x="1185" y="710" text-anchor="middle" class="txt bartext">“产品—市场”以及“获取—生产—废弃”线性思维</text>
+
+  <circle cx="866" cy="812" r="7" class="bullet"/><text x="892" y="822" class="txt small">单一财务绩效指标、股东利益最大化经营方针</text>
+  <circle cx="866" cy="870" r="7" class="bullet"/><text x="892" y="880" class="txt small">重短期目标、偏投机策略、被动承担社会责任</text>
+</svg>

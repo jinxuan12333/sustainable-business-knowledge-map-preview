@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1020" role="img" aria-labelledby="title description">
+  <title id="title">图2-4 第二树的废旧家具再生利用的循环经济运行模式</title>
+  <desc id="description">全新家具经寿命期、用后回收和质检评估后，分别进入翻新循环销售、部件拆解再利用或废品处理的循环经济运行模式。</desc>
+  <defs>
+    <style>
+      .base{fill:#fbfaf6}.box{fill:#fffdf9;stroke:#1d6e61;stroke-width:4}.line{stroke:#1d6e61;stroke-width:5;fill:none;marker-end:url(#arrow)}.label{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;fill:#172d29;font-weight:800;font-size:39px}.small{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;fill:#76501e;font-weight:700;font-size:30px}.heading{font-family:'Noto Serif SC','Songti SC',serif;fill:#172d29;font-weight:800;font-size:44px}.note{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif;fill:#4c625d;font-size:26px}
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1d6e61"/></marker>
+  </defs>
+  <rect class="base" width="1800" height="1020"/>
+  <text x="900" y="76" text-anchor="middle" class="heading">第二树的废旧家具再生利用的循环经济运行模式</text>
+  <text x="900" y="118" text-anchor="middle" class="note">废旧家具经回收、评估与分类后，进入循环利用、部件再利用或废品处理路径</text>
+
+  <g aria-label="循环销售路径">
+    <rect x="110" y="245" width="220" height="82" rx="4" class="box"/><text x="220" y="298" text-anchor="middle" class="label">全新家具</text>
+    <rect x="500" y="245" width="220" height="82" rx="4" class="box"/><text x="610" y="298" text-anchor="middle" class="label">用后回收</text>
+    <rect x="500" y="435" width="220" height="82" rx="4" class="box"/><text x="610" y="488" text-anchor="middle" class="label">质检评估</text>
+    <rect x="500" y="625" width="220" height="82" rx="4" class="box"/><text x="610" y="678" text-anchor="middle" class="label">清洗修复</text>
+    <rect x="190" y="625" width="220" height="82" rx="4" class="box"/><text x="300" y="678" text-anchor="middle" class="label">翻新成品</text>
+    <rect x="190" y="435" width="220" height="82" rx="4" class="box"/><text x="300" y="488" text-anchor="middle" class="label">循环销售</text>
+    <path d="M330 286 H500" class="line"/><text x="414" y="230" text-anchor="middle" class="small">寿命期3～5年</text>
+    <path d="M610 327 V435" class="line"/><path d="M610 517 V625" class="line"/><path d="M500 666 H410" class="line"/><path d="M300 625 V517" class="line"/><path d="M300 435 V327" class="line"/>
+    <path d="M190 476 C50 475 50 285 110 285" class="line"/>
+  </g>
+
+  <g aria-label="部件拆解与废品处理路径">
+    <rect x="910" y="435" width="220" height="82" rx="4" class="box"/><text x="1020" y="488" text-anchor="middle" class="label">部件拆除</text>
+    <rect x="1290" y="330" width="220" height="82" rx="4" class="box"/><text x="1400" y="383" text-anchor="middle" class="label">可用部件</text>
+    <rect x="1290" y="190" width="220" height="82" rx="4" class="box"/><text x="1400" y="243" text-anchor="middle" class="label">废品再生</text>
+    <rect x="1290" y="570" width="220" height="82" rx="4" class="box"/><text x="1400" y="623" text-anchor="middle" class="label">废品部件</text>
+    <rect x="1290" y="760" width="220" height="82" rx="4" class="box"/><text x="1400" y="813" text-anchor="middle" class="label">焚烧发电</text>
+    <path d="M720 476 H910" class="line"/><path d="M1130 456 H1290" class="line"/><path d="M1400 330 V272" class="line"/><path d="M1400 412 V570" class="line"/><path d="M1400 652 V760" class="line"/>
+  </g>
+
+  <line x1="800" y1="170" x2="800" y2="890" stroke="#d5cbb8" stroke-width="2" stroke-dasharray="10 12"/>
+  <text x="405" y="915" text-anchor="middle" class="note">循环销售：回收、翻新后再次投入使用</text>
+  <text x="1210" y="915" text-anchor="middle" class="note">分类利用：部件再利用、废品再生或焚烧发电</text>
+</svg>
