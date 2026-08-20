@@ -196,6 +196,13 @@ kbd { padding: 1px 7px; background: var(--paper-deep); border: 1px solid #d1c8b8
 .expression-notes p { display: flex; gap: 14px; align-items: center; }
 .expression.synthesis { color: #5c4777; background: #eee8f4; }
 
+.version-history { display: grid; gap: 22px; }
+.version-history > article { padding: 24px; background: rgba(255,253,248,.72); border: 1px solid var(--line); }
+.version-history > article > div > small { color: var(--gold); font-size: 11px; font-weight: 800; letter-spacing: .06em; }
+.version-history > article > div > p { margin: 8px 0 20px; color: #45564e; }
+.version-history .figure-stack { margin-top: 18px; }
+.version-history .book-figure img { max-height: 620px; object-fit: contain; }
+
 /* 可持续商业工具：新增独立栏目，不改动知识库定稿正文的版式与内容。 */
 .tool-index-note, .tool-question { margin: 0 0 30px; padding: 24px 28px; color: #eff7f2; background: var(--green-dark); border-left: 4px solid #d3ad6a; }
 .tool-index-note strong, .tool-question small { display: block; color: #e1c58d; font-size: 10px; font-weight: 800; letter-spacing: .12em; }

@@ -182,7 +182,12 @@ figures/fig-06-02/
 figures/fig-06-03/
 figures/fig-06-04/
 figures/fig-06-05/
+figures/fig-v2-dmodel-01/
 sources/book-001/
+sources/shanghai-sustainable-industry-accelerator-2026/
+sources/systems-thinking-sustainable-business-2026/
+sources/beijing-public-course-strategy-design-2026/
+sources/sustainable-business-strategy-d-model-2026/
 graph/
 source/
 changelog/

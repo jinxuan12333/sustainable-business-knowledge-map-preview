@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-labelledby="title description">
+  <title id="title">六维宝石图谱（D模型）</title>
+  <desc id="description">以企业四要素为中心，依次经过社会痛点、市场机遇、产业生态、价值衡量、应用场景和商业模式六步；风险机遇、复合价值、企业韧性、生态活力贯穿全程。</desc>
+  <defs>
+    <style>
+      .txt{font-family:'Noto Sans SC','Microsoft YaHei',Arial,sans-serif;fill:#17201d}.muted{fill:#5d6964}.axis{font-size:42px;font-weight:800}.axisNo{fill:#fff;font-size:24px;font-weight:800}.step{font-size:31px;font-weight:800}.stepEn{font-size:20px;font-weight:650;fill:#46534e}.stepNo{fill:#fff;font-size:28px;font-weight:800}.core{fill:#fff;font-size:23px;font-weight:800}.coreSmall{fill:#fff;font-size:15px;font-weight:650}.inside{font-size:25px;font-weight:750}.note{font-size:23px;font-weight:650;fill:#64716c}.gem{fill:#f5f7f5;stroke:#727b77;stroke-width:7;stroke-linejoin:round}.facet{fill:#e5e9e6;stroke:#a8afac;stroke-width:2}.line{fill:none;stroke:#7d8782;stroke-width:2}.divider{stroke:#fff;stroke-width:10}.number{fill:#e9782b;stroke:#fff;stroke-width:5}.outer{fill:#00a954}.flow{fill:none;stroke:#0879bd;stroke-width:6;marker-end:url(#arrow)}
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="5" orient="auto"><path d="M0,0 L11,5 L0,10 Z" fill="#0879bd"/></marker>
+  </defs>
+
+  <g aria-label="四个贯穿全程的观察维度">
+    <text x="120" y="555" class="txt axis">风险机遇</text><circle cx="82" cy="542" r="24" class="outer"/><text x="82" y="551" text-anchor="middle" class="txt axisNo">1</text>
+    <text x="1325" y="555" class="txt axis">复合价值</text><circle cx="1512" cy="542" r="24" class="outer"/><text x="1512" y="551" text-anchor="middle" class="txt axisNo">2</text>
+    <text x="695" y="1055" class="txt axis">企业韧性</text><circle cx="907" cy="1040" r="24" class="outer"/><text x="907" y="1049" text-anchor="middle" class="txt axisNo">3</text>
+    <text x="690" y="58" class="txt axis">生态活力</text><circle cx="907" cy="44" r="24" class="outer"/><text x="907" y="53" text-anchor="middle" class="txt axisNo">4</text>
+  </g>
+
+  <g aria-label="D模型六步图谱">
+    <polygon points="800,250 1110,430 1110,710 800,890 490,710 490,430" class="gem"/>
+    <polygon points="800,270 950,520 650,520" class="facet"/>
+    <polygon points="510,445 770,590 510,690" class="facet"/>
+    <polygon points="1090,445 830,590 1090,690" class="facet"/>
+    <polygon points="800,870 650,610 950,610" class="facet"/>
+    <line x1="800" y1="570" x2="800" y2="300" class="divider"/>
+    <line x1="800" y1="570" x2="550" y2="460" class="divider"/>
+    <line x1="800" y1="570" x2="1050" y2="460" class="divider"/>
+    <line x1="800" y1="570" x2="800" y2="830" class="divider"/>
+    <line x1="800" y1="250" x2="800" y2="890" class="line"/>
+    <line x1="490" y1="430" x2="1110" y2="710" class="line"/>
+    <line x1="1110" y1="430" x2="490" y2="710" class="line"/>
+    <line x1="490" y1="430" x2="1110" y2="430" class="line"/>
+    <line x1="490" y1="710" x2="1110" y2="710" class="line"/>
+
+    <circle cx="800" cy="570" r="78" fill="#0879bd" stroke="#fff" stroke-width="7"/>
+    <text x="800" y="558" text-anchor="middle" class="txt core">企业四要素</text>
+    <text x="800" y="590" text-anchor="middle" class="txt coreSmall">核心价值 · 主打领域</text>
+    <text x="800" y="614" text-anchor="middle" class="txt coreSmall">关键技能 · 综合资源</text>
+    <text x="800" y="425" text-anchor="middle" class="txt inside">核心价值</text>
+    <text x="645" y="565" text-anchor="middle" class="txt inside">关键技能</text>
+    <text x="955" y="565" text-anchor="middle" class="txt inside">综合资源</text>
+    <text x="800" y="735" text-anchor="middle" class="txt inside">主打领域</text>
+
+    <circle cx="490" cy="430" r="31" class="number"/><text x="490" y="440" text-anchor="middle" class="txt stepNo">1</text>
+    <text x="350" y="380" text-anchor="middle" class="txt step">社会痛点</text><text x="350" y="410" text-anchor="middle" class="txt stepEn">Social pain points</text>
+
+    <circle cx="490" cy="710" r="31" class="number"/><text x="490" y="720" text-anchor="middle" class="txt stepNo">2</text>
+    <text x="345" y="750" text-anchor="middle" class="txt step">市场机遇</text><text x="345" y="780" text-anchor="middle" class="txt stepEn">Market opportunity</text>
+
+    <circle cx="1110" cy="430" r="31" class="number"/><text x="1110" y="440" text-anchor="middle" class="txt stepNo">3</text>
+    <text x="1255" y="380" text-anchor="middle" class="txt step">产业生态</text><text x="1255" y="410" text-anchor="middle" class="txt stepEn">Industrial ecosystem</text>
+
+    <circle cx="1110" cy="710" r="31" class="number"/><text x="1110" y="720" text-anchor="middle" class="txt stepNo">4</text>
+    <text x="1250" y="750" text-anchor="middle" class="txt step">价值衡量</text><text x="1250" y="780" text-anchor="middle" class="txt stepEn">Value measuring</text>
+
+    <circle cx="800" cy="250" r="31" class="number"/><text x="800" y="260" text-anchor="middle" class="txt stepNo">5</text>
+    <text x="800" y="175" text-anchor="middle" class="txt step">应用场景</text><text x="800" y="205" text-anchor="middle" class="txt stepEn">Application scenarios</text>
+
+    <circle cx="800" cy="890" r="31" class="number"/><text x="800" y="900" text-anchor="middle" class="txt stepNo">6</text>
+    <text x="800" y="960" text-anchor="middle" class="txt step">商业模式</text><text x="800" y="990" text-anchor="middle" class="txt stepEn">Sustainable business model</text>
+  </g>
+
+  <g aria-label="六步递进关系">
+    <path d="M420 445 C365 505 365 625 420 690" class="flow"/>
+    <text x="285" y="585" class="txt note">挑战 → 机遇</text>
+    <path d="M520 760 C600 845 690 900 745 900" class="flow"/>
+    <text x="430" y="850" class="txt note">进入增长路径</text>
+    <path d="M860 900 C950 870 1035 805 1080 760" class="flow"/>
+    <text x="985" y="850" class="txt note">形成经营闭环</text>
+    <path d="M1165 685 C1210 615 1210 515 1165 450" class="flow"/>
+    <text x="1160" y="600" class="txt note">复合价值检验</text>
+    <path d="M1080 395 C1015 320 930 265 855 250" class="flow"/>
+    <text x="1010" y="300" class="txt note">开放协作价值链</text>
+    <path d="M745 250 C655 275 565 335 520 395" class="flow"/>
+    <text x="450" y="300" class="txt note">回到真实痛点</text>
+  </g>
+</svg>
