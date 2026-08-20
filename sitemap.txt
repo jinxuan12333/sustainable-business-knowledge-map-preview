@@ -43,6 +43,8 @@ viewpoints/three-chains-digital-bridge/
 viewpoints/city-industry-scenes/
 viewpoints/full-value-chain-carbon/
 viewpoints/strategic-philanthropy-multiplier/
+viewpoints/six-capitals-circulate-value/
+viewpoints/ai-governance-starts-with-value-data-responsibility/
 frameworks/three-dimensional-strategy/
 frameworks/one-two-three-logic/
 frameworks/four-enterprise-elements/
@@ -69,6 +71,8 @@ frameworks/esg-monetization/
 frameworks/esg-digital-operation/
 frameworks/full-chain-carbon/
 frameworks/strategic-philanthropy/
+frameworks/six-capitals-value-network/
+frameworks/abci-human-ai-collaboration/
 concepts/esg/
 concepts/stakeholder-economy/
 concepts/externality/
@@ -93,6 +97,7 @@ concepts/sustainable-development/
 concepts/sustainable-business/
 concepts/sustainable-business-strategy/
 concepts/sustainable-business-leadership/
+concepts/digital-intelligence-capital/
 cases/unilever/
 cases/oatly/
 cases/huntsman/
@@ -185,9 +190,16 @@ figures/fig-06-05/
 figures/fig-v2-dmodel-01/
 sources/book-001/
 sources/shanghai-sustainable-industry-accelerator-2026/
+sources/carbon-asset-low-carbon-path-2026/
+sources/ai-green-tech-esg-governance-2026/
+sources/shanghai-sasac-csr-training-2026/
 sources/systems-thinking-sustainable-business-2026/
 sources/beijing-public-course-strategy-design-2026/
 sources/sustainable-business-strategy-d-model-2026/
+sources/six-capitals-value-network-2026/
+sources/six-capitals-enterprise-practice-2026/
+sources/ai-six-capitals-traceability-2026/
+sources/sustainable-business-ai-capabilities-2026/
 graph/
 source/
 changelog/
