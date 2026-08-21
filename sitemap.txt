@@ -45,6 +45,9 @@ viewpoints/full-value-chain-carbon/
 viewpoints/strategic-philanthropy-multiplier/
 viewpoints/six-capitals-circulate-value/
 viewpoints/ai-governance-starts-with-value-data-responsibility/
+viewpoints/globalization-is-localization/
+viewpoints/brand-is-trust-bearing-business-system/
+viewpoints/sustainable-marketing-has-two-tasks/
 frameworks/three-dimensional-strategy/
 frameworks/one-two-three-logic/
 frameworks/four-enterprise-elements/
@@ -71,6 +74,10 @@ frameworks/esg-monetization/
 frameworks/esg-digital-operation/
 frameworks/full-chain-carbon/
 frameworks/strategic-philanthropy/
+frameworks/globalization-five-layer-localization/
+frameworks/sustainable-brand-two-dimensional-matrix/
+frameworks/ai-brand-six-end-trust-ecosystem/
+frameworks/sustainable-marketing-dual-task/
 frameworks/six-capitals-value-network/
 frameworks/abci-human-ai-collaboration/
 concepts/esg/
@@ -98,6 +105,7 @@ concepts/sustainable-business/
 concepts/sustainable-business-strategy/
 concepts/sustainable-business-leadership/
 concepts/digital-intelligence-capital/
+concepts/trusted-information-asset/
 cases/unilever/
 cases/oatly/
 cases/huntsman/
@@ -190,9 +198,17 @@ figures/fig-06-05/
 figures/fig-v2-dmodel-01/
 sources/book-001/
 sources/shanghai-sustainable-industry-accelerator-2026/
+sources/overseas-responsibility-value-creation-2026/
+sources/esg-compliance-paradigm-2026/
+sources/china-auto-globalization-esg-2026/
+sources/sustainable-packaging-innovation-2026/
 sources/carbon-asset-low-carbon-path-2026/
+sources/china-korea-sustainable-business-2026/
+sources/esg-strategy-sustainable-marketing-2026/
 sources/ai-green-tech-esg-governance-2026/
 sources/shanghai-sasac-csr-training-2026/
+sources/globalization-sustainable-brand-base-2026/
+sources/globalization-sustainable-brand-canonical-2026/
 sources/systems-thinking-sustainable-business-2026/
 sources/beijing-public-course-strategy-design-2026/
 sources/sustainable-business-strategy-d-model-2026/

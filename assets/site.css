@@ -139,7 +139,7 @@ kbd { padding: 1px 7px; background: var(--paper-deep); border: 1px solid #d1c8b8
 .lecture-prose p:last-child { margin-bottom: 0; }
 .source-passages { margin-top: 16px; }
 .source-quote { color: #33473f; }
-.inline-citation { display: inline; margin-left: .45em; color: #977043; font-family: var(--sans); font-size: 11px; font-weight: 700; white-space: nowrap; }
+.inline-citation { display: inline; margin-left: .45em; color: #977043; font-family: var(--sans); font-size: 11px; font-weight: 700; white-space: normal; overflow-wrap: anywhere; }
 .structured-list { margin: 0; padding: 0; list-style: none; counter-reset: ordered; }
 .structured-list > li { position: relative; min-height: 47px; padding: 11px 0 11px 48px; border-bottom: 1px dashed #d8d0c2; counter-increment: ordered; }
 .structured-list > li::before { content: counter(ordered, decimal-leading-zero); position: absolute; left: 0; top: 11px; color: var(--gold); font-family: var(--serif); font-size: 14px; }
