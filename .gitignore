@@ -1,0 +1,30 @@
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+SBS.pem
+
+# Local data, dependencies, caches, and temporary build output
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.dump
+*.bak
+node_modules/
+.pnpm-store/
+.cache/
+.tmp/
+coverage/
+.turbo/
+playwright-report/
+test-results/
