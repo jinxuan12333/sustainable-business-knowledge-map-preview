@@ -52,7 +52,6 @@ viewpoints/ai-tools-do-not-equal-human-capability/
 viewpoints/esg-name-changes-business-resilience-remains/
 viewpoints/circular-economy-starts-with-design-and-trust/
 viewpoints/philanthropy-must-build-value-capability/
-viewpoints/art-and-sustainable-business/
 frameworks/three-dimensional-strategy/
 frameworks/one-two-three-logic/
 frameworks/four-enterprise-elements/
