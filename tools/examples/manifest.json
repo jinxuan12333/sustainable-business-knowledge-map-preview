@@ -1,17 +1,19 @@
 {
-  "generatedAt": "2026-08-22T13:23:14.672Z",
+  "generatedAt": "2026-10-29T14:17:23.465Z",
   "examples": [
     {
       "id": "needs-diagnosis",
       "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_NEEDS_DIAGNOSIS_SAMPLE.html",
+      "sourceRevision": "3b16485a907388f39f8960dfa426fcaac5aaffa2",
       "file": "needs-diagnosis.html",
-      "sha256": "30b06482a1fec8d1d9a190c28885975bef3f90368ff75a3bda2fecd83862f352"
+      "sha256": "5dacd4b85f1d02ea25e4bbb930da384ea58100dcf86b6f5fbff5d8180c9f1a40"
     },
     {
       "id": "strategy-design",
       "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_STRATEGY_DESIGN_SAMPLE.html",
+      "sourceRevision": "3b16485a907388f39f8960dfa426fcaac5aaffa2",
       "file": "strategy-design.html",
-      "sha256": "8d7e51dda1a76e9cee2b97ed79c45ee8a0ec1731d609374bf005347ec45cb6d1"
+      "sha256": "abfcd76fd7db0cff581369fd853ec2fb5f06badfad00a24fdae30bf8e799a38e"
     },
     {
       "id": "strategy-implementation",
