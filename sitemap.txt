@@ -78,6 +78,7 @@ frameworks/esg-monetization/
 frameworks/esg-digital-operation/
 frameworks/full-chain-carbon/
 frameworks/strategic-philanthropy/
+frameworks/brand-communication-power-formula/
 frameworks/park-esg-four-layer-collaboration/
 frameworks/new-business-civilization-four-layer-transition/
 frameworks/talent-development-five-degrees/
@@ -206,6 +207,8 @@ figures/fig-06-03/
 figures/fig-06-04/
 figures/fig-06-05/
 figures/fig-v2-dmodel-01/
+figures/fig-v2-supply-marketing-loop-01/
+figures/fig-v2-six-capitals-value-network-01/
 sources/book-001/
 sources/esg-trends-year-end-2025/
 sources/minimalism-art-business-2026/
@@ -239,6 +242,7 @@ sources/new-business-civilization-2026/
 sources/emp-shanghai-mobile-classroom-2026/
 sources/art-and-sustainable-business-2026/
 sources/profit-is-result-leader-cognition-interview-2026/
+sources/sustainable-brand-sandbox-report-template-2026/
 graph/
 source/
 changelog/
