@@ -151,6 +151,7 @@
   <url><loc>https://sustainablebusinesssmart.com/concepts/change-frustration/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/concepts/circular-design/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/concepts/city-industry-integration/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/concepts/climate-economy/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/concepts/compound-value/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/concepts/corporate-purpose/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/concepts/development/</loc></url>
@@ -166,6 +167,7 @@
   <url><loc>https://sustainablebusinesssmart.com/concepts/materiality/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/concepts/new-business-civilization/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/concepts/nontraditional-risk/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/concepts/opc-one-person-company/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/concepts/scope-three/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/concepts/social-pain/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/concepts/social-purpose/</loc></url>
@@ -236,7 +238,12 @@
   <url><loc>https://sustainablebusinesssmart.com/figures/fig-06-03/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/figures/fig-06-04/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/figures/fig-06-05/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/figures/fig-v2-bidirectional-risk-01/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/figures/fig-v2-dmodel-01/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/figures/fig-v2-esg-management-closed-loop-01/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/figures/fig-v2-lv-capability-matrix-01/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/figures/fig-v2-opc-growth-01/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/figures/fig-v2-organization-strategy-fit-01/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/figures/fig-v2-six-capitals-value-network-01/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/figures/fig-v2-supply-marketing-loop-01/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/frameworks/</loc></url>
@@ -280,9 +287,12 @@
   <url><loc>https://sustainablebusinesssmart.com/frameworks/globalization-five-layer-localization/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/frameworks/growth-development-curve/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/frameworks/interface-victory/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/frameworks/lv-capability-matrix/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/frameworks/networked-execution/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/frameworks/new-business-civilization-four-layer-transition/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/frameworks/one-two-three-logic/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/frameworks/opc-sustainable-growth-path/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/frameworks/outbound-value-chain-carbon-five-by-three/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/frameworks/park-esg-four-layer-collaboration/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/frameworks/personal-growth-four-forces/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/frameworks/practice-j-curve/</loc></url>
@@ -330,12 +340,16 @@
   <url><loc>https://sustainablebusinesssmart.com/sources/china-korea-sustainable-business-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/emp-shanghai-mobile-classroom-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/esg-compliance-paradigm-2026/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/sources/esg-overseas-challenges-opportunities-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/esg-strategy-sustainable-marketing-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/esg-trends-year-end-2025/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/globalization-sustainable-brand-base-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/globalization-sustainable-brand-canonical-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/minimalism-art-business-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/new-business-civilization-2026/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/sources/opc-business-model-workshop-note-2026/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/sources/opc-personal-second-curve-2026/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/sources/outbound-value-chain-carbon-strategy-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/overseas-responsibility-value-creation-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/profit-is-result-leader-cognition-interview-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/second-tree-author-commentary-2026/</loc></url>
@@ -346,6 +360,7 @@
   <url><loc>https://sustainablebusinesssmart.com/sources/six-capitals-value-network-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/sustainable-brand-sandbox-report-template-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/sustainable-business-ai-capabilities-2026/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/sources/sustainable-business-esg-management-system-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/sustainable-business-model-practice-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/sustainable-business-strategy-d-model-2026/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/sources/sustainable-packaging-innovation-2026/</loc></url>
@@ -428,6 +443,7 @@
   <url><loc>https://sustainablebusinesssmart.com/viewpoints/organization-enables-value/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/viewpoints/pain-to-opportunity/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/viewpoints/philanthropy-must-build-value-capability/</loc></url>
+  <url><loc>https://sustainablebusinesssmart.com/viewpoints/profit-necessary-not-sufficient-for-survival/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/viewpoints/purpose-before-strategy/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/viewpoints/risk-lifecycle/</loc></url>
   <url><loc>https://sustainablebusinesssmart.com/viewpoints/six-capitals-circulate-value/</loc></url>

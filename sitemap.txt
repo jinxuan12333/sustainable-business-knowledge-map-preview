@@ -52,6 +52,7 @@ viewpoints/ai-tools-do-not-equal-human-capability/
 viewpoints/esg-name-changes-business-resilience-remains/
 viewpoints/circular-economy-starts-with-design-and-trust/
 viewpoints/philanthropy-must-build-value-capability/
+viewpoints/profit-necessary-not-sufficient-for-survival/
 frameworks/three-dimensional-strategy/
 frameworks/one-two-three-logic/
 frameworks/four-enterprise-elements/
@@ -90,6 +91,9 @@ frameworks/ai-brand-six-end-trust-ecosystem/
 frameworks/sustainable-marketing-dual-task/
 frameworks/six-capitals-value-network/
 frameworks/abci-human-ai-collaboration/
+frameworks/outbound-value-chain-carbon-five-by-three/
+frameworks/opc-sustainable-growth-path/
+frameworks/lv-capability-matrix/
 concepts/esg/
 concepts/stakeholder-economy/
 concepts/externality/
@@ -117,6 +121,8 @@ concepts/sustainable-business-leadership/
 concepts/digital-intelligence-capital/
 concepts/trusted-information-asset/
 concepts/new-business-civilization/
+concepts/climate-economy/
+concepts/opc-one-person-company/
 cases/unilever/
 cases/oatly/
 cases/huntsman/
@@ -209,6 +215,11 @@ figures/fig-06-05/
 figures/fig-v2-dmodel-01/
 figures/fig-v2-supply-marketing-loop-01/
 figures/fig-v2-six-capitals-value-network-01/
+figures/fig-v2-esg-management-closed-loop-01/
+figures/fig-v2-organization-strategy-fit-01/
+figures/fig-v2-bidirectional-risk-01/
+figures/fig-v2-opc-growth-01/
+figures/fig-v2-lv-capability-matrix-01/
 sources/book-001/
 sources/esg-trends-year-end-2025/
 sources/minimalism-art-business-2026/
@@ -243,6 +254,11 @@ sources/emp-shanghai-mobile-classroom-2026/
 sources/art-and-sustainable-business-2026/
 sources/profit-is-result-leader-cognition-interview-2026/
 sources/sustainable-brand-sandbox-report-template-2026/
+sources/outbound-value-chain-carbon-strategy-2026/
+sources/esg-overseas-challenges-opportunities-2026/
+sources/sustainable-business-esg-management-system-2026/
+sources/opc-personal-second-curve-2026/
+sources/opc-business-model-workshop-note-2026/
 graph/
 source/
 changelog/
