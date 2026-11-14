@@ -53,6 +53,7 @@ viewpoints/esg-name-changes-business-resilience-remains/
 viewpoints/circular-economy-starts-with-design-and-trust/
 viewpoints/philanthropy-must-build-value-capability/
 viewpoints/profit-necessary-not-sufficient-for-survival/
+viewpoints/esg-ratings-as-diagnostic-input/
 frameworks/three-dimensional-strategy/
 frameworks/one-two-three-logic/
 frameworks/four-enterprise-elements/
@@ -143,6 +144,7 @@ cases/cimc-six-dimensional-gem/
 cases/southern-power-grid-esg-infrastructure/
 cases/avimetal/
 cases/cofco/
+cases/jiasheng-xmu-mangrove-cooperation/
 themes/business-purpose/
 themes/strategy-transformation/
 themes/business-model-value/
@@ -259,6 +261,11 @@ sources/esg-overseas-challenges-opportunities-2026/
 sources/sustainable-business-esg-management-system-2026/
 sources/opc-personal-second-curve-2026/
 sources/opc-business-model-workshop-note-2026/
+sources/jiasheng-xmu-mangrove-climate-resilience-2026/
+sources/esg-case-evaluation-and-standard-capability-2026/
+sources/overseas-labor-and-supply-chain-compliance-2026/
+sources/esg-mandatory-disclosure-first-year-2026/
+sources/mangrove-climate-resilience-wechat-2026/
 graph/
 source/
 changelog/
