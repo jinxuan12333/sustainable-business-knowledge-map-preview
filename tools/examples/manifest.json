@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-11-25T07:27:47.067Z",
+  "generatedAt": "2026-11-25T07:40:19.905Z",
   "examples": [
     {
       "id": "needs-diagnosis",
       "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_NEEDS_DIAGNOSIS_SAMPLE.html",
-      "sourceRevision": "7e5b12984a49195c99cb4e5d0abf701f8b1ac532",
+      "sourceRevision": "0a80a9677c9c5a4d43f0118373a08bce7a746351",
       "file": "needs-diagnosis.html",
       "sha256": "bd1f8bd22849e58bcd4560aade4040bace7cad686422b541008d6615435c2874"
     },
     {
       "id": "strategy-design",
       "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_STRATEGY_DESIGN_SAMPLE.html",
-      "sourceRevision": "7e5b12984a49195c99cb4e5d0abf701f8b1ac532",
+      "sourceRevision": "0a80a9677c9c5a4d43f0118373a08bce7a746351",
       "file": "strategy-design.html",
       "sha256": "07cd50b466b8bcac0f67fe35436442de7514d3144e8e22fce360359ec71f9e81"
     },
     {
       "id": "strategy-implementation",
       "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_STRATEGY_IMPLEMENTATION_SAMPLE.html",
-      "sourceRevision": "7e5b12984a49195c99cb4e5d0abf701f8b1ac532",
+      "sourceRevision": "0a80a9677c9c5a4d43f0118373a08bce7a746351",
       "file": "strategy-implementation.html",
       "sha256": "5126d2047f17167932044d614e32ebf530c789f1bf950425126a1d1549ff4a81"
     },
     {
       "id": "business-model-innovation",
       "source": "../sustainable-business-internal-plugin/tests/web-research/A_ENTERPRISE_BUSINESS_MODEL_INNOVATION_SAMPLE.html",
-      "sourceRevision": "7e5b12984a49195c99cb4e5d0abf701f8b1ac532",
+      "sourceRevision": "0a80a9677c9c5a4d43f0118373a08bce7a746351",
       "file": "business-model-innovation.html",
       "sha256": "3422579857a0788f03ffcc55b4cfbead14a326c11c2845a52e66b1699d9c36d5"
     },
     {
       "id": "organizational-transformation",
       "source": "../sustainable-business-internal-plugin/tests/web-research/B_ENTERPRISE_ORGANIZATIONAL_TRANSFORMATION_SAMPLE.html",
-      "sourceRevision": "7e5b12984a49195c99cb4e5d0abf701f8b1ac532",
+      "sourceRevision": "0a80a9677c9c5a4d43f0118373a08bce7a746351",
       "file": "organizational-transformation.html",
       "sha256": "9068d3129a0cf0c028cad78767e42c1717243d80499ace79ae89377679a8271e"
     },
     {
       "id": "management-system",
       "source": "../sustainable-business-internal-plugin/tests/web-research/C_ENTERPRISE_MANAGEMENT_SYSTEM_SAMPLE.html",
-      "sourceRevision": "7e5b12984a49195c99cb4e5d0abf701f8b1ac532",
+      "sourceRevision": "0a80a9677c9c5a4d43f0118373a08bce7a746351",
       "file": "management-system.html",
       "sha256": "c1f02e0b0c8bcfbbf383ee78aa7106977429a68dbfe2c802a0c30c703bfd8c64"
     }
